@@ -1,3 +1,5 @@
+//conftest2
+
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a === b) {
